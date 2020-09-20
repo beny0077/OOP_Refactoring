@@ -3,6 +3,6 @@ This project was to refactor a procedural game to an Object-Oriented Game. The g
 
 Located inside the OOP_Refactoring folder:
 
-Refer to the "1. Procedural Code" file that shows the original code before any modifications
+Refer to the "1. Procedural Code" PNG. file that shows the original code before any modifications
 
-Refer to the "2. Refactoring step 1-4" and "3. Refactoring steps 5-8" to view each step I took to convert it into OOP
+Refer to the "2. Refactoring step 1-4" and "3. Refactoring steps 5-8" PNG. files to view each step I took to convert it into OOP
